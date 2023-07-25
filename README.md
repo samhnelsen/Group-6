@@ -2,9 +2,11 @@
 NOTE: Please find detailed report at the following link: https://docs.google.com/document/d/10qTHKCO2VMYVr4lqPOXIXuiZaccyCF3mYYWhk1ylS4o/edit?usp=sharing
 
 Project Title
+
 So, you wanna make a successful videogame?
 
 Team Members 
+
 Greg Wick 
 Sam Nelsen 
 Edmon Chen 
@@ -13,15 +15,19 @@ Tram Hoang
 Daravitou Nhim
 
 Data Set
+
 https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
 
 Presentation
+
 https://docs.google.com/presentation/d/1U2L5j3I0_dVPDSajiWlHb7GmneF4o9Diix7lhPsgPUk/edit?usp=sharing
 
 GitHub Repository
+
 https://github.com/samhnelsen/Group-6/tree/main
 
 Project Description/Outline
+
 The video game industry is a multi-billion dollar industry, with gamers from around the world spending their time and money playing their favorite games. But, what makes a video game successful and what are ways we can define success for video games? 
 The goal of our analysis is to examine various dimensions of success and find trends for the most successful games within those dimensions. Leveraging data from the Steam store, an online digital distribution platform for video games, we examined almost 75k games across the following success dimensions:  
   - Sales and revenue ($)
@@ -32,6 +38,7 @@ The goal of our analysis is to examine various dimensions of success and find tr
 
 
 Summary of Findings and Recommendations
+
 Sales and revenue findings: From a sales perspective, it’s important to divide the games between free to play and paid games. For paid games, the games that made the most revenue were of the Action or Indie genre and developed and published by large companies, like Amazon, Valve, and Ubisoft. That said, looking at individual games, RPGs like New World and Elden Ring brought in the most amount of revenue. 
 
 While it’s difficult to quantify full sales figures for free to play games using our data set, we looked at downloads as a proxy. Action, Indie, Adventure, and Multiplayer brought in the most downloads from free to play games. That said, Multiplayer games like Dota 2 and Counter Strike: Global Offensive stood out as individual games that had the most downloads. 
